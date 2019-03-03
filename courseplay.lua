@@ -116,7 +116,6 @@ local function initialize()
     'course-generator/center',
     'course-generator/headland',
     'course-generator/geo',
-    'course-generator/a-star',
     'course-generator/Island',
     'course-generator/pathfinder'
 	};
